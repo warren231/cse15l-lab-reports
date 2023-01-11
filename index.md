@@ -7,5 +7,5 @@
 > A quote
 
 ```python
-forth programmers and lisp hackers.. dni...
+forth programmers and lisp hackers.. "dni..."
 ```
