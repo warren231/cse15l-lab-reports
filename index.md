@@ -6,6 +6,6 @@
 
 > A quote
 
-``` c
+```python
 forth programmers and lisp hackers.. dni...
 ```
