@@ -17,9 +17,13 @@
 
 ## 7. Try commands such as:
 `mkdir (directory name)` to make a new folder
+
 `cp (origin) (destination)` to copy a file or folder to a destination.
+
 `cd (directory path)` to change directory
+
 `ls` to list the files in your working directory or `ls (directory)` to list the files in a specific directory.
+
 `pwd` to print your current working directory
 
 ![image](https://user-images.githubusercontent.com/110417554/211932255-eb435874-c498-487a-84a6-53a5180d056e.png)
