@@ -4,7 +4,10 @@
 ## 3. Open up a terminal such as the one found in VS Code.
 ## 4. If you want to use VS Code for the terminal and don't have it, download it from [here](https://code.visualstudio.com/)
 - Personally I just used the lab computer's VS Code for this first lab but I previously installed it on my own computer.
+- On Windows, to install it, run the setup executable, accept the terms, click next a few times, and probably make sure to keep the ticked checkbox for adding VS Code to your PATH, click Install, and wait.
 ![image](https://user-images.githubusercontent.com/110417554/211932381-3765cb3a-e859-438a-98fb-b0f873193de0.png)
+![image](https://user-images.githubusercontent.com/110417554/214780566-a11aeedd-eed4-4f56-ba1a-db222ed436c9.png)
+You should see something like the bottom image when you're done installing.
 
 ## 5. Open the VS Code terminal. One way of finding it is using the Terminal part of the menu bar.
 
